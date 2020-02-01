@@ -19,9 +19,9 @@ export default {
     //   class: ''             // optional class names space delimited list for title item ex: "text-center"
     // },
     {
-      name: 'Colors',
-      url: '/theme/colors',
-      icon: 'icon-drop',
+      name: 'Patients',
+      url: '/patients',
+      icon: 'icon-people',
     },
     {
       name: 'Typography',
